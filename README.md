@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rohan Bhoge!  
-**Artificial Intelligence and Data Science Student | MERN Stack Developer | Innovator**
+**Artificial Intelligence and Data Science Student | MERN Stack Developer | Consistent learner**
 
 ---
 
@@ -50,6 +50,3 @@
 📧 **Email:** [bhogerohan12@gmail.com](mailto:bhogerohan12@gmail.com)
 
 ---
-
-## 📈 GitHub Stats  
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanBhoge&show_icons=true&theme=radical)  
