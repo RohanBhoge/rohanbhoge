@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rohan Bhoge!  
-**Artificial Intelligence and Data Science Student | MERN Stack Developer | Consistent learner**
+**Artificial Intelligence and Data Science Student | Full Stack Developer | Consistent learner**
 
 ---
 
