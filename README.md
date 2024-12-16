@@ -22,7 +22,7 @@
 
 ## 🌟 Projects  
 
-### 🎥 [PlayTube Clone](https://rohanbhoge.github.io/youtube-clone/)  
+### 🎥 [VidTube Clone](https://rohanbhoge.github.io/youtube-clone/)  
 **A fully responsive video streaming platform built using React.js and CSS.**  
 - 📌 **Features:**
   - Seamless video playback with efficient API integration.  
